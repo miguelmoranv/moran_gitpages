@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://miguelmoranv.github.io/moran_gitpages/build",
+  "homepage": "https://miguelmoranv.github.io/moran_gitpages/build",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
